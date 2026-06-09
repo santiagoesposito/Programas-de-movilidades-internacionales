@@ -1,0 +1,2224 @@
+{
+  "becas": [
+    {
+      "activa": true,
+      "num": 1,
+      "title": "Beca Fulbright Posgrado (EE. UU.)",
+      "País": "Estados Unidos",
+      "Descripción": "Becas Fulbright para graduados argentinos que quieran cursar una maestría o doctorado en universidades de EE. UU. Incluye asistencia en el proceso de admisión y búsqueda de financiación para matrícula. Prioriza áreas como educación, IA aplicada a educación y STEM.",
+      "Requisitos": "Promedio ≥7, inglés TOEFL 95/IELTS 7.0, ciudadanía argentina",
+      "Beneficios": "Pasaje, estipendio mensual, seguro médico de emergencias",
+      "Público": "Graduados argentinos (carreras ≥4 años)",
+      "Áreas": "Ingeniería y ciencias (STEM)",
+      "Fechas": "Apertura enero, Cierre marzo",
+      "Sitio web": "https://fulbright.edu.ar",
+      "paises": [
+        "US"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "marzo",
+      "urls": [
+        "https://fulbright.edu.ar"
+      ],
+      "mails": [],
+      "title_display": "Beca Fulbright Posgrado",
+      "grupo": "Posgrado",
+      "apertura": "Enero",
+      "aperturaMeses": [
+        "enero"
+      ],
+      "cierreDisplay": "Marzo",
+      "cierreMeses": [
+        "marzo"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 2,
+      "title": "Becas Gobierno de Irlanda (Irlanda)",
+      "País": "Irlanda",
+      "Descripción": "Beca de posgrado para investigación en universidades irlandesas. Permite al estudiante dirigir su propio proyecto de investigación con supervisión académica. Cubre estipendio, tasas y costos directos del proyecto.",
+      "Requisitos": "Bachelor con honores (2:1) o maestría, supervisor en Irlanda",
+      "Beneficios": "€25.000/año + €5.750 tasas + €3.250 costos",
+      "Público": "Maestría (2 años) o doctorado (4 años)",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura septiembre, Cierre octubre",
+      "Sitio web": "https://researchireland.ie – postgrad@researchireland.ie",
+      "paises": [
+        "IE"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "octubre",
+      "urls": [
+        "https://researchireland.ie"
+      ],
+      "mails": [
+        "postgrad@researchireland.ie"
+      ],
+      "title_display": "Becas Gobierno de Irlanda",
+      "grupo": "Posgrado",
+      "apertura": "Septiembre",
+      "aperturaMeses": [
+        "septiembre"
+      ],
+      "cierreDisplay": "Octubre",
+      "cierreMeses": [
+        "octubre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 3,
+      "title": "DAAD EPOS (Alemania)",
+      "País": "Alemania",
+      "Descripción": "Becas para maestrías y doctorados orientados al desarrollo en universidades alemanas. Exclusivo para programas listados en el sitio web de DAAD EPOS. Requiere al menos dos años de experiencia profesional post-bachelor.",
+      "Requisitos": "Bachelor (4 años), promedio top 1/3, ≥2 años experiencia, inglés/alemán",
+      "Beneficios": "992-1.400 €/mes + pasaje + seguro",
+      "Público": "Graduados con experiencia laboral",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura agosto-octubre, Cierre octubre-diciembre",
+      "Sitio web": "https://www.daad.de/EPOS",
+      "paises": [
+        "DE"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "octubre-diciembre",
+      "urls": [
+        "https://www.daad.de/EPOS"
+      ],
+      "mails": [],
+      "title_display": "DAAD EPOS",
+      "grupo": "Posgrado",
+      "apertura": "Agosto–Octubre",
+      "aperturaMeses": [
+        "agosto",
+        "septiembre",
+        "octubre"
+      ],
+      "cierreDisplay": "Octubre–Diciembre",
+      "cierreMeses": [
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 4,
+      "title": "DAAD Doctorado Binacional (Alemania)",
+      "País": "Alemania + Argentina",
+      "Descripción": "Estancias de investigación en Alemania de 7 a 24 meses dentro de un doctorado binacional. Ofrece dos modalidades: supervisión compartida (modelo sándwich) o cotutela (doble título).",
+      "Requisitos": "Maestría, no haber estado en Alemania >15 meses",
+      "Beneficios": "1.400 €/mes (7-24 meses) + pasaje + seguro + subsidios",
+      "Público": "Doctorandos",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura junio, Cierre agosto",
+      "Sitio web": "https://www.daad.de – info.buenosaires@daad.de",
+      "paises": [
+        "DE"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Movilidad"
+      ],
+      "cierre": "agosto",
+      "urls": [
+        "https://www.daad.de"
+      ],
+      "mails": [
+        "info.buenosaires@daad.de"
+      ],
+      "title_display": "DAAD Doctorado Binacional",
+      "grupo": "Posgrado",
+      "apertura": "Junio",
+      "aperturaMeses": [
+        "junio"
+      ],
+      "cierreDisplay": "Agosto",
+      "cierreMeses": [
+        "agosto"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 5,
+      "title": "Becas Gobierno Chino CSC (China)",
+      "País": "China",
+      "Descripción": "Becas completas del gobierno chino para argentinos que quieran cursar maestrías o doctorados en universidades chinas. El pasaje internacional no está incluido. Requiere carta de admisión o pre-admisión.",
+      "Requisitos": "Carta de admisión/pre-admisión de universidad china, HSK4 si programa en chino",
+      "Beneficios": "Matrícula, alojamiento, estipendio, seguro médico (pasaje NO incluido)",
+      "Público": "Maestría o doctorado",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura octubre, Cierre marzo",
+      "Sitio web": "http://www.campuschina.org – americas-admission@csc.edu.cn",
+      "paises": [
+        "CN"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "marzo",
+      "urls": [
+        "http://www.campuschina.org"
+      ],
+      "mails": [
+        "americas-admission@csc.edu.cn"
+      ],
+      "title_display": "Becas Gobierno Chino CSC",
+      "grupo": "Posgrado",
+      "apertura": "Octubre",
+      "aperturaMeses": [
+        "octubre"
+      ],
+      "cierreDisplay": "Marzo",
+      "cierreMeses": [
+        "marzo"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 6,
+      "title": "Great Wall Fellowship (China)",
+      "País": "China",
+      "Descripción": "Becas UNESCO-China para que estudiantes e investigadores de países en desarrollo realicen maestrías, doctorados o estancias de investigación en universidades chinas. Incluye pasaje internacional financiado por UNESCO.",
+      "Requisitos": "Carta pre-admisión, plan de estudio, 2 cartas de recomendación, examen físico",
+      "Beneficios": "Matrícula + estipendio (3.000-3.500 CNY/mes) + pasaje UNESCO + seguro",
+      "Público": "Maestría/doctorado o investigadores visitantes (1 año)",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura noviembre, Cierre enero",
+      "Sitio web": "https://www.campuschina.org – thegreatwall@unesco.org",
+      "paises": [
+        "CN"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado",
+        "Movilidad"
+      ],
+      "cierre": "enero",
+      "urls": [
+        "https://www.campuschina.org"
+      ],
+      "mails": [
+        "thegreatwall@unesco.org"
+      ],
+      "title_display": "Great Wall Fellowship",
+      "grupo": "Posgrado",
+      "apertura": "Noviembre",
+      "aperturaMeses": [
+        "noviembre"
+      ],
+      "cierreDisplay": "Enero",
+      "cierreMeses": [
+        "enero"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 7,
+      "title": "PAEC OAS – GCUB (Brasil)",
+      "País": "Brasil",
+      "Descripción": "Becas de la OEA en colaboración con universidades brasileñas para cursar maestrías o doctorados. Incluye exención de matrícula, estipendio mensual parcial y un apoyo único de US$1.200 para los primeros 150 seleccionados.",
+      "Requisitos": "Bachelor (maestría) o maestría (doctorado)",
+      "Beneficios": "Matrícula gratis + estipendio (valor CAPES) + US$1.200 + apoyo portugués",
+      "Público": "Maestría o doctorado",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura mayo, Cierre julio",
+      "Sitio web": "https://www.gcub.org.br – gcub.mob@gcub.org.br",
+      "paises": [
+        "BR"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "julio",
+      "urls": [
+        "https://www.gcub.org.br"
+      ],
+      "mails": [
+        "gcub.mob@gcub.org.br"
+      ],
+      "title_display": "PAEC OAS – GCUB",
+      "grupo": "Posgrado",
+      "apertura": "Mayo",
+      "aperturaMeses": [
+        "mayo"
+      ],
+      "cierreDisplay": "Julio",
+      "cierreMeses": [
+        "julio"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 8,
+      "title": "Beca Colombia para Extranjeros (Colombia)",
+      "País": "Colombia",
+      "Descripción": "Becas del ICETEX para extranjeros que quieran cursar especializaciones o maestrías en universidades colombianas. Cubre el 100% de la matrícula y otorga un sostenimiento mensual equivalente a 2 salarios mínimos colombianos.",
+      "Requisitos": "Admisión definitiva, promedio ≥4.0/5.0, 12 meses experiencia laboral afín",
+      "Beneficios": "100% matrícula + sostenimiento mensual (~2 SMLMV) + seguro médico",
+      "Público": "Maestría o especialización",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura marzo, Cierre junio",
+      "Sitio web": "https://portal.icetex.gov.co – beca_colombia@icetex.gov.co",
+      "paises": [
+        "CO"
+      ],
+      "niveles": [
+        "Maestría"
+      ],
+      "cierre": "junio",
+      "urls": [
+        "https://portal.icetex.gov.co"
+      ],
+      "mails": [
+        "beca_colombia@icetex.gov.co"
+      ],
+      "title_display": "Beca Colombia para Extranjeros",
+      "grupo": "Posgrado",
+      "apertura": "Marzo",
+      "aperturaMeses": [
+        "marzo"
+      ],
+      "cierreDisplay": "Junio",
+      "cierreMeses": [
+        "junio"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 9,
+      "title": "Becas AMEXCID (México)",
+      "País": "México",
+      "Descripción": "Becas del gobierno mexicano para formación de posgrado (maestrías) o estancias de investigación (doctorado/posdoctorado) en instituciones mexicanas. Incluye manutención mensual, matrícula y seguro médico.",
+      "Requisitos": "Carta de aceptación de universidad mexicana, promedio ≥85/100 o 8.5/10",
+      "Beneficios": "Manutención $14.264-17.831 MXN/mes + matrícula + seguro IMSS + visa",
+      "Público": "Maestría, movilidad o estancias investigación",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura mayo, Cierre junio",
+      "Sitio web": "https://www.gob.mx/amexcid – infobecas@sre.gob.mx",
+      "paises": [
+        "MX"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado",
+        "Posdoctorado",
+        "Movilidad"
+      ],
+      "cierre": "junio",
+      "urls": [
+        "https://www.gob.mx/amexcid"
+      ],
+      "mails": [
+        "infobecas@sre.gob.mx"
+      ],
+      "title_display": "Becas AMEXCID",
+      "grupo": "Posgrado",
+      "apertura": "Mayo",
+      "aperturaMeses": [
+        "mayo"
+      ],
+      "cierreDisplay": "Junio",
+      "cierreMeses": [
+        "junio"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 10,
+      "title": "ERCIM Postdoctoral Fellowship (Europa)",
+      "País": "Múltiples (Italia, Países Bajos, Alemania, Noruega, Suecia, Portugal)",
+      "Descripción": "Beca postdoctoral de 12 meses en institutos de investigación europeos miembros de ERCIM. Ofrece estipendio mensual según país anfitrión, pasaje y seguro. Requiere cambio de país y no haber trabajado en el instituto anfitrión recientemente.",
+      "Requisitos": "PhD en últimos 8 años o último año de tesis, movilidad internacional",
+      "Beneficios": "2.240-4.415 €/mes + pasaje (hasta 500 €/tramo) + seguro",
+      "Público": "Doctores",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura durante el año, Cierre septiembre",
+      "Sitio web": "https://fellowship.ercim.eu – fp-info@ercim.eu",
+      "paises": [
+        "IT",
+        "NL",
+        "DE",
+        "NO",
+        "SE",
+        "PT"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado"
+      ],
+      "cierre": "septiembre",
+      "urls": [
+        "https://fellowship.ercim.eu"
+      ],
+      "mails": [
+        "fp-info@ercim.eu"
+      ],
+      "title_display": "ERCIM Postdoctoral Fellowship",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Durante el año",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Septiembre",
+      "cierreMeses": [
+        "septiembre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 11,
+      "title": "Humboldt Research Fellowship (Alemania)",
+      "País": "Alemania",
+      "Descripción": "Becas de investigación en Alemania para postdoctorados de todo el mundo. Ofrece dos niveles: postdoc (PhD últimos 4 años) y experienced researcher (PhD últimos 12 años + liderazgo). Incluye curso de alemán y subsidios familiares.",
+      "Requisitos": "PhD completo, publicaciones, carta de invitación de anfitrión en Alemania",
+      "Beneficios": "3.000-3.600 €/mes (6-24 meses) + curso alemán + subsidios",
+      "Público": "Postdoctorados",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura marzo, julio, noviembre; Cierre según cupo (800 aplicaciones)",
+      "Sitio web": "https://www.humboldt-foundation.de – info@avh.de",
+      "paises": [
+        "DE"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado"
+      ],
+      "cierre": "según cupo (800 aplicaciones)",
+      "urls": [
+        "https://www.humboldt-foundation.de"
+      ],
+      "mails": [
+        "info@avh.de"
+      ],
+      "title_display": "Humboldt Research Fellowship",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Durante el año",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Sin cierre fijo · evaluaciones Marzo, Julio y Noviembre",
+      "cierreMeses": [
+        "marzo",
+        "julio",
+        "noviembre"
+      ],
+      "notaFecha": "No tiene cierre único; se usa el calendario histórico de comités de selección."
+    },
+    {
+      "activa": true,
+      "num": 12,
+      "title": "JSPS Postdoctoral Fellowship (Japón)",
+      "País": "Japón",
+      "Descripción": "Becas postdoctorales del gobierno japonés para investigadores con PhD obtenido en los últimos 6 años. Incluye estipendio mensual, settling allowance, pasaje y seguro. Requiere un investigador anfitrión en Japón.",
+      "Requisitos": "PhD últimos 6 años, investigador anfitrión en Japón (full-time)",
+      "Beneficios": "¥362.000-387.600/mes + ¥200.000 settling + pasaje + seguro",
+      "Público": "Doctores",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura durante el año, Cierre agosto (1ra ronda) y abril (2da ronda)",
+      "Sitio web": "https://www.jsps.go.jp – postdoc-standard@jsps.go.jp",
+      "paises": [
+        "JP"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado",
+        "Movilidad"
+      ],
+      "cierre": "agosto (1ra ronda) y abril (2da ronda)",
+      "urls": [
+        "https://www.jsps.go.jp"
+      ],
+      "mails": [
+        "postdoc-standard@jsps.go.jp"
+      ],
+      "title_display": "JSPS Postdoctoral Fellowship",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Durante el año",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Agosto y Abril",
+      "cierreMeses": [
+        "agosto",
+        "abril"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 13,
+      "title": "MEXT – Nagoya/Gifu (Japón)",
+      "País": "Japón",
+      "Descripción": "Becas MEXT para maestrías y doctorados en Ingeniería Civil y Ambiental en las universidades de Nagoya y Gifu. Incluye pasaje internacional, exención de matrícula y estipendio mensual. Selección por documentos y entrevista online.",
+      "Requisitos": "<35 años, inglés TOEFL 80/IELTS 6, bachelor (maestría) o maestría (doctorado)",
+      "Beneficios": "¥144.000-145.000/mes + pasaje + exención matrícula y tasas",
+      "Público": "Maestría o doctorado en Ing. Civil/Ambiental",
+      "Áreas": "Ingeniería Civil, Ambiental",
+      "Fechas": "Apertura septiembre, Cierre noviembre-diciembre",
+      "Sitio web": "http://www.civil.nagoya-u.ac.jp – fso@civil.nagoya-u.ac.jp",
+      "paises": [
+        "JP"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "noviembre-diciembre",
+      "urls": [
+        "http://www.civil.nagoya-u.ac.jp"
+      ],
+      "mails": [
+        "fso@civil.nagoya-u.ac.jp"
+      ],
+      "title_display": "MEXT – Nagoya/Gifu",
+      "grupo": "Posgrado",
+      "apertura": "Septiembre",
+      "aperturaMeses": [
+        "septiembre"
+      ],
+      "cierreDisplay": "Noviembre–Diciembre",
+      "cierreMeses": [
+        "noviembre",
+        "diciembre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 14,
+      "title": "Hong Kong PhD Fellowship (Hong Kong)",
+      "País": "Hong Kong (China)",
+      "Descripción": "Becas doctorales del gobierno de Hong Kong para atraer a los mejores estudiantes del mundo a realizar su PhD en universidades de Hong Kong. Incluye estipendio anual y un allowance para viajes de conferencias e investigación.",
+      "Requisitos": "Excelencia académica destacada, potencial de investigación",
+      "Beneficios": "HK$344.400/año + HK$14.400/año para viajes",
+      "Público": "Doctorado",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura septiembre, Cierre diciembre",
+      "Sitio web": "https://www.rgc.hku.hk/hkpfs",
+      "paises": [
+        "HK"
+      ],
+      "niveles": [
+        "Doctorado"
+      ],
+      "cierre": "diciembre",
+      "urls": [
+        "https://www.rgc.hku.hk/hkpfs"
+      ],
+      "mails": [],
+      "title_display": "Hong Kong PhD Fellowship",
+      "grupo": "Posgrado",
+      "apertura": "Septiembre",
+      "aperturaMeses": [
+        "septiembre"
+      ],
+      "cierreDisplay": "Diciembre",
+      "cierreMeses": [
+        "diciembre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 15,
+      "title": "AIAS-AUFF Fellowship (Dinamarca)",
+      "País": "Dinamarca",
+      "Descripción": "Beca postdoctoral de 23 meses en el Aarhus Institute of Advanced Studies (AIAS). Proyecto interdisciplinario obligatorio. Incluye salario completo según convenios daneses y cobertura de viaje de reubicación.",
+      "Requisitos": "2-10 años post-PhD, no haber residido en Dinamarca >12 meses en últimos 2 años",
+      "Beneficios": "Salario (convenios daneses) + viaje reubicación + oficina en AIAS",
+      "Público": "Postdoctorados",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura agosto, Cierre octubre",
+      "Sitio web": "https://aias.au.dk – helle@aias.au.dk",
+      "paises": [
+        "DK"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado"
+      ],
+      "cierre": "octubre",
+      "urls": [
+        "https://aias.au.dk"
+      ],
+      "mails": [
+        "helle@aias.au.dk"
+      ],
+      "title_display": "AIAS-AUFF Fellowship",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Agosto",
+      "aperturaMeses": [
+        "agosto"
+      ],
+      "cierreDisplay": "Octubre",
+      "cierreMeses": [
+        "octubre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 16,
+      "title": "NOMIS-ISTA Fellowship (Austria)",
+      "País": "Austria",
+      "Descripción": "Beca postdoctoral interdisciplinaria de 3 años en el Institute of Science and Technology Austria (ISTA). Proyecto obligatoriamente co-supervisado por dos líderes de grupos de diferentes disciplinas. Alta libertad para explorar conceptos de alto riesgo.",
+      "Requisitos": "PhD + experiencia interdisciplinaria, proyecto interdisciplinario obligatorio",
+      "Beneficios": "≥75.586 € brutos/año + fondos investigación y viaje + mentoría dual",
+      "Público": "Postdoctorados",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura durante el año, Cierre septiembre",
+      "Sitio web": "https://ist.ac.at",
+      "paises": [
+        "AT"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado"
+      ],
+      "cierre": "septiembre",
+      "urls": [
+        "https://ist.ac.at"
+      ],
+      "mails": [],
+      "title_display": "NOMIS-ISTA Fellowship",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Durante el año",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Septiembre",
+      "cierreMeses": [
+        "septiembre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 17,
+      "title": "President's Doctoral Scholar (Reino Unido)",
+      "País": "Reino Unido (University of Manchester)",
+      "Descripción": "Beca doctoral por nominación del supervisor en la University of Manchester. Ofrece financiación completa por 3.5 años incluyendo matrícula internacional y estipendio UKRI más £1.000 adicionales por año.",
+      "Requisitos": "Bachelor 2:1 o equivalente, maestría ideal, experiencia en investigación",
+      "Beneficios": "Matrícula + estipendio UKRI + £1.000 extra/año",
+      "Público": "Doctorado",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura durante el año, Cierre diciembre (1ra ronda) y marzo (2da ronda)",
+      "Sitio web": "https://www.manchester.ac.uk",
+      "paises": [
+        "GB"
+      ],
+      "niveles": [
+        "Doctorado"
+      ],
+      "cierre": "diciembre (1ra ronda) y marzo (2da ronda)",
+      "urls": [
+        "https://www.manchester.ac.uk"
+      ],
+      "mails": [],
+      "title_display": "President's Doctoral Scholar",
+      "grupo": "Posgrado",
+      "apertura": "Durante el año",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Diciembre y Marzo",
+      "cierreMeses": [
+        "diciembre",
+        "marzo"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 18,
+      "title": "NHR Graduate School PhD (Alemania)",
+      "País": "Alemania",
+      "Descripción": "Becas doctorales en High-Performance Computing (HPC) en los nueve centros NHR de Alemania. Ofrece 2.200 €/mes por 36 meses más un secondment de 6 meses en otro centro NHR. Enfocado en computación, matemática e ingeniería.",
+      "Requisitos": "Maestría, inglés TOEFL 79/IELTS 6.5",
+      "Beneficios": "2.200 €/mes (36 meses) + 6 meses secondment + entrenamiento",
+      "Público": "Doctorado en HPC",
+      "Áreas": "Computación, matemática, ingeniería",
+      "Fechas": "Apertura durante el año, Cierre septiembre",
+      "Sitio web": "https://www.nhr-verein.de – scholarship@nhr-verein.de",
+      "paises": [
+        "DE"
+      ],
+      "niveles": [
+        "Doctorado"
+      ],
+      "cierre": "septiembre",
+      "urls": [
+        "https://www.nhr-verein.de"
+      ],
+      "mails": [
+        "scholarship@nhr-verein.de"
+      ],
+      "title_display": "NHR Graduate School PhD",
+      "grupo": "Posgrado",
+      "apertura": "Durante el año",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Septiembre",
+      "cierreMeses": [
+        "septiembre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 19,
+      "title": "Coimbra Group Scholarship (Europa)",
+      "País": "Múltiples universidades europeas (España, Portugal, Alemania, Austria, Bélgica, Francia, Italia, etc.)",
+      "Descripción": "Estancias cortas de investigación (1-3 meses) para profesores e investigadores early-career de universidades latinoamericanas en universidades del Grupo Coimbra. Requiere carta de aceptación de un supervisor anfitrión.",
+      "Requisitos": "Nacidos ≥1 enero 1986, carta de aceptación de supervisor, vinculado a universidad latinoamericana",
+      "Beneficios": "Estancia de 1-3 meses (según universidad anfitriona)",
+      "Público": "Investigadores early-career de Latinoamérica",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura durante el año, Cierre mayo",
+      "Sitio web": "https://www.coimbra-group.eu – info@coimbra-group.eu",
+      "paises": [
+        "ES",
+        "PT",
+        "DE",
+        "AT",
+        "BE",
+        "FR",
+        "IT"
+      ],
+      "niveles": [
+        "Movilidad"
+      ],
+      "cierre": "mayo",
+      "urls": [
+        "https://www.coimbra-group.eu"
+      ],
+      "mails": [
+        "info@coimbra-group.eu"
+      ],
+      "title_display": "Coimbra Group Scholarship",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Durante el año",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Mayo",
+      "cierreMeses": [
+        "mayo"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 20,
+      "title": "Ernst Mach Grant (Austria)",
+      "País": "Austria",
+      "Descripción": "Becas del gobierno austriaco para estancias de investigación o estudio en Austria. Dirigido a jóvenes investigadores de todo el mundo (excepto Austria). Incluye estipendio mensual y subsidio de viaje según distancia.",
+      "Requisitos": "<35 años, carta de invitación de supervisor en Austria",
+      "Beneficios": "1.180 €/mes (1-9 meses) + subsidio viaje (50-1.500 € según distancia)",
+      "Público": "Jóvenes investigadores",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura octubre, Cierre febrero",
+      "Sitio web": "https://www.oead.at – mach@oead.at",
+      "paises": [
+        "AT"
+      ],
+      "niveles": [
+        "Movilidad"
+      ],
+      "cierre": "febrero",
+      "urls": [
+        "https://www.oead.at"
+      ],
+      "mails": [
+        "mach@oead.at"
+      ],
+      "title_display": "Ernst Mach Grant",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Octubre",
+      "aperturaMeses": [
+        "octubre"
+      ],
+      "cierreDisplay": "Febrero",
+      "cierreMeses": [
+        "febrero"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 21,
+      "title": "Graduate Research Scholarships (Australia)",
+      "País": "Australia (University of Melbourne)",
+      "Descripción": "Becas automáticas para investigación de posgrado (maestría o doctorado) en la University of Melbourne. Los estudiantes son considerados automáticamente al postular a un grado de investigación. Incluye exención de matrícula y estipendio.",
+      "Requisitos": "Ser admitido o estar enrolado en un grado de investigación en University of Melbourne",
+      "Beneficios": "Matrícula + estipendio (según mérito académico)",
+      "Público": "Maestría por investigación o doctorado",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura automática, Cierre octubre (para estudiantes actuales/diferidos)",
+      "Sitio web": "https://scholarships.unimelb.edu.au",
+      "paises": [
+        "AU"
+      ],
+      "niveles": [
+        "Grado",
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "octubre (para estudiantes actuales/diferidos)",
+      "urls": [
+        "https://scholarships.unimelb.edu.au"
+      ],
+      "mails": [],
+      "title_display": "Graduate Research Scholarships",
+      "grupo": "Posgrado",
+      "apertura": "Automática",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Octubre",
+      "cierreMeses": [
+        "octubre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 22,
+      "title": "Beca Integración Transfronteriza Austral (Chile)",
+      "País": "Chile (Universidad de Magallanes)",
+      "Descripción": "Beca del gobierno chileno (AGCID) y la Universidad de Magallanes para argentinos residentes en las provincias de Santa Cruz y Tierra del Fuego. Cubre carreras de grado (ingenierías y ciencias) en Punta Arenas.",
+      "Requisitos": "Residente en Santa Cruz o Tierra del Fuego, promedio secundario ≥7.0, carta de recomendación",
+      "Beneficios": "Matrícula y arancel completo + asignación mensual + libros + seguro escolar",
+      "Público": "Argentinos de Santa Cruz y Tierra del Fuego",
+      "Áreas": "Ingeniería Civil, Mecánica, Eléctrica, Química, Computación, Construcción",
+      "Fechas": "Apertura noviembre, Cierre no especificado",
+      "Sitio web": "https://admision.umag.cl – beca.agcid@umag.cl",
+      "paises": [
+        "CL"
+      ],
+      "niveles": [
+        "Grado"
+      ],
+      "cierre": "no especificado",
+      "urls": [
+        "https://admision.umag.cl"
+      ],
+      "mails": [
+        "beca.agcid@umag.cl"
+      ],
+      "title_display": "Beca Integración Transfronteriza Austral",
+      "grupo": "Grado",
+      "apertura": "Noviembre–Enero",
+      "aperturaMeses": [
+        "noviembre",
+        "diciembre",
+        "enero"
+      ],
+      "cierreDisplay": "Enero (estimado)",
+      "cierreMeses": [
+        "enero"
+      ],
+      "notaFecha": "Estimado a partir de convocatoria habitual entre noviembre y enero."
+    },
+    {
+      "activa": true,
+      "num": 23,
+      "title": "Programa Jóvenes Profesionales Suiza (Suiza)",
+      "País": "Suiza",
+      "Descripción": "Permiso de trabajo para jóvenes profesionales argentinos de 18-35 años que quieran realizar una pasantía laboral (trainee) en Suiza por hasta 18 meses. Requiere contrato con programa de formación integrado y trabajar en la profesión para la que fue formado.",
+      "Requisitos": "Formación vocacional completa (universidad o terciario), contrato con programa de formación",
+      "Beneficios": "Permiso de residencia y trabajo en Suiza (hasta 18 meses) + salario según convenio",
+      "Público": "Argentinos de 18-35 años",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura todo el año, Cierre no aplica",
+      "Sitio web": "https://www.sem.admin.ch – Embajada de Suiza en Buenos Aires",
+      "paises": [
+        "CH"
+      ],
+      "niveles": [
+        "Movilidad"
+      ],
+      "cierre": "no aplica",
+      "urls": [
+        "https://www.sem.admin.ch"
+      ],
+      "mails": [],
+      "title_display": "Programa Jóvenes Profesionales Suiza",
+      "grupo": "Graduados",
+      "apertura": "Durante el año",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Sin cierre fijo",
+      "cierreMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "notaFecha": "Programa continuo sujeto a contrato/empleador y trámite ante autoridad competente."
+    },
+    {
+      "activa": true,
+      "num": 24,
+      "title": "Woven by Toyota Internship (Japón)",
+      "País": "Japón",
+      "Descripción": "Internship de 3 meses en Toyota (Woven) en Tokio para estudiantes de maestría o doctorado. Trabajan en proyectos reales de movilidad y tecnología. Incluye pasaje ida/vuelta, visa y alojamiento por 3 meses.",
+      "Requisitos": "Maestría o doctorado en curso, bachelor completado, no estudiantes de intercambio",
+      "Beneficios": "Salario por hora + pasaje ida/vuelta + visa + alojamiento 3 meses",
+      "Público": "Estudiantes de maestría o doctorado",
+      "Áreas": "Ingeniería, tecnología, movilidad, IA, robótica",
+      "Fechas": "Apertura durante el año, Cierre febrero (cohorte junio) y abril (cohorte agosto)",
+      "Sitio web": "https://www.woven.toyota",
+      "paises": [
+        "JP"
+      ],
+      "niveles": [
+        "Movilidad"
+      ],
+      "cierre": "febrero (cohorte junio) y abril (cohorte agosto)",
+      "urls": [
+        "https://www.woven.toyota"
+      ],
+      "mails": [],
+      "title_display": "Woven by Toyota Internship",
+      "grupo": "Posgrado",
+      "apertura": "Durante el año",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Febrero y Abril",
+      "cierreMeses": [
+        "febrero",
+        "abril"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 25,
+      "title": "EPFL Excellence Fellowships (Suiza)",
+      "País": "Suiza (EPFL)",
+      "Descripción": "Beca por excelencia para cursar una maestría en la Escuela Politécnica Federal de Lausana (EPFL). Ofrece CHF 10.000 por semestre (máx 4 semestres) y para estudiantes externos incluye reserva de habitación en residencia.",
+      "Requisitos": "Excelencia académica, postular al máster de EPFL y marcar la casilla de fellowship",
+      "Beneficios": "CHF 10.000/semestre (máx 4) + habitación para externos + certificado de excelencia",
+      "Público": "Estudiantes internacionales",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura durante el año, Cierre diciembre y marzo",
+      "Sitio web": "https://www.epfl.ch – master.fellowship@epfl.ch",
+      "paises": [
+        "CH"
+      ],
+      "niveles": [
+        "Maestría"
+      ],
+      "cierre": "diciembre y marzo",
+      "urls": [
+        "https://www.epfl.ch"
+      ],
+      "mails": [
+        "master.fellowship@epfl.ch"
+      ],
+      "title_display": "EPFL Excellence Fellowships",
+      "grupo": "Posgrado",
+      "apertura": "Durante el año",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Diciembre y Marzo",
+      "cierreMeses": [
+        "diciembre",
+        "marzo"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 26,
+      "title": "PILA – Programa de Intercambio Académico Latinoamericano",
+      "País": "Latinoamérica",
+      "Descripción": "Intercambio académico semestral en universidades de Latinoamérica con reconocimiento de materias cursadas. Permite movilidad estudiantil de grado y posgrado entre países miembros del programa.",
+      "Requisitos": "Ser estudiante regular, tener al menos el 40% de la carrera aprobado, cumplir requisitos académicos de la facultad y contar con seguro internacional",
+      "Beneficios": "Exención de matrícula en destino, alojamiento y alimentación cubiertos por la universidad anfitriona",
+      "Público": "Estudiantes de grado y posgrado; también docentes, investigadores y gestores",
+      "Áreas": "Todas (ingeniería y ciencias)",
+      "Fechas": "Apertura abril-mayo (2do semestre) / octubre-noviembre (1er semestre)",
+      "Sitio web": "https://www.programapila.lat",
+      "paises": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE",
+        "UY",
+        "BO",
+        "PY",
+        "EC",
+        "CR"
+      ],
+      "niveles": [
+        "Grado",
+        "Maestría",
+        "Movilidad"
+      ],
+      "cierre": "Apertura abril-mayo (2do semestre) / octubre-noviembre (1er semestre)",
+      "urls": [
+        "https://www.programapila.lat"
+      ],
+      "mails": [],
+      "title_display": "PILA – Programa de Intercambio Académico Latinoamericano",
+      "grupo": "Grado",
+      "apertura": "Abril–Mayo y Octubre–Noviembre",
+      "aperturaMeses": [
+        "abril",
+        "mayo",
+        "octubre",
+        "noviembre"
+      ],
+      "cierreDisplay": "Mayo y Noviembre (estimado)",
+      "cierreMeses": [
+        "mayo",
+        "noviembre"
+      ],
+      "notaFecha": "Estimado por ciclos semestrales; las fechas finales suelen definirlas las instituciones participantes."
+    },
+    {
+      "activa": true,
+      "num": 27,
+      "title": "OPCW Fellowship Programme (Países Bajos / internacional)",
+      "País": "Múltiples destinos (principalmente Europa, EE. UU., África y Asia)",
+      "Descripción": "Programa de formación e investigación internacional en química, seguridad química, tecnologías de laboratorio y aplicaciones pacíficas de la química. Financia estancias de 3 a 6 meses en instituciones de investigación.",
+      "Requisitos": "Título universitario, pertenecer a una universidad o institución pública de investigación, dominio del idioma de trabajo, institución anfitriona confirmada",
+      "Beneficios": "Financiamiento para realizar una estancia de investigación o capacitación internacional de 3 a 6 meses",
+      "Público": "Investigadores, docentes, científicos e ingenieros",
+      "Áreas": "Ingeniería Química (principalmente); también Industrial, Mecánica y Eléctrica según proyecto",
+      "Fechas": "Convocatoria permanente (evaluaciones en enero y junio)",
+      "Sitio web": "https://www.opcw.org/resources/capacity-building/international-cooperation-programmes/fellowship-programme",
+      "paises": [
+        "NL",
+        "US",
+        "DE",
+        "FR",
+        "GB",
+        "IT",
+        "ES"
+      ],
+      "niveles": [
+        "Movilidad"
+      ],
+      "cierre": "Convocatoria permanente (evaluaciones en enero y junio)",
+      "urls": [
+        "https://www.opcw.org/resources/capacity-building/international-cooperation-programmes/fellowship-programme"
+      ],
+      "mails": [],
+      "title_display": "OPCW Fellowship Programme",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Permanente",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Sin cierre fijo · evaluaciones Enero y Junio",
+      "cierreMeses": [
+        "enero",
+        "junio"
+      ],
+      "notaFecha": "Convocatoria permanente; se informan meses de evaluación como referencia."
+    },
+    {
+      "activa": true,
+      "num": 28,
+      "title": "Becas ALEARG – DAAD / Secretaría de Educación Argentina (Alemania)",
+      "País": "Alemania",
+      "Descripción": "Beca de un año para realizar una estancia académica en una universidad alemana y una práctica profesional o proyecto de investigación aplicada en Alemania. Incluye curso intensivo de alemán.",
+      "Requisitos": "Ser argentino, tener aprobado al menos el 60% de la carrera, promedio mínimo 7, adeudar al menos 2 materias al momento de viajar, hasta 26 años, inglés y alemán certificados",
+      "Beneficios": "Estipendio mensual (€1120), pasajes, seguro médico, curso intensivo de alemán, apoyo para estudio e investigación",
+      "Público": "Estudiantes de grado",
+      "Áreas": "Ingeniería Civil, Sistemas, Industrial, Eléctrica, Química y Mecánica",
+      "Fechas": "Apertura junio-julio, Cierre agosto",
+      "Sitio web": "https://www.argentina.gob.ar/educacion/campusargentinaglobal/becas-extranjero/alearg-estudiantes-ingenieria-alemania",
+      "paises": [
+        "DE"
+      ],
+      "niveles": [
+        "Grado"
+      ],
+      "cierre": "agosto",
+      "urls": [
+        "https://www.argentina.gob.ar/educacion/campusargentinaglobal/becas-extranjero/alearg-estudiantes-ingenieria-alemania"
+      ],
+      "mails": [],
+      "title_display": "Becas ALEARG – DAAD / Secretaría de Educación Argentina",
+      "grupo": "Grado",
+      "apertura": "Junio–Julio",
+      "aperturaMeses": [
+        "junio",
+        "julio"
+      ],
+      "cierreDisplay": "Agosto",
+      "cierreMeses": [
+        "agosto"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 29,
+      "title": "Beca de Posdoctorado Ralf W. Hahn – Instituto Weizmann (Israel)",
+      "País": "Israel",
+      "Descripción": "Programa de investigación posdoctoral en biología, física, química, bioquímica, matemática y computación en el Instituto Weizmann, uno de los centros científicos más prestigiosos del mundo.",
+      "Requisitos": "Doctorado (o título de medicina) obtenido dentro de los 4 años previos al inicio de la beca",
+      "Beneficios": "Estipendio, cobertura de traslados, financiamiento para conferencias internacionales",
+      "Público": "Posdoctorado",
+      "Áreas": "Ingeniería Química, Ingeniería en Sistemas de Información y áreas afines a ciencias básicas",
+      "Fechas": "Apertura mayo-julio, Cierre 14 julio 2026",
+      "Sitio web": "https://www.weizmann.ac.il",
+      "paises": [
+        "IL"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado"
+      ],
+      "cierre": "14 julio 2026",
+      "urls": [
+        "https://www.weizmann.ac.il"
+      ],
+      "mails": [],
+      "title_display": "Beca de Posdoctorado Ralf W. Hahn – Instituto Weizmann",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Mayo–Julio",
+      "aperturaMeses": [
+        "mayo",
+        "junio",
+        "julio"
+      ],
+      "cierreDisplay": "Julio",
+      "cierreMeses": [
+        "julio"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 30,
+      "title": "Branco Weiss Fellowship – Society in Science",
+      "País": "Internacional (institución anfitriona en cualquier país)",
+      "Descripción": "Prestigiosa beca internacional para investigadores posdoctorales que desarrollen proyectos innovadores y de alto impacto, fuera de las líneas tradicionales de investigación. Financia hasta 5 años de investigación independiente.",
+      "Requisitos": "Doctorado obtenido dentro de los últimos 5 años, trayectoria científica destacada, propuesta de investigación original y mentor en una institución anfitriona",
+      "Beneficios": "Hasta CHF 600.000 para financiar un proyecto de investigación independiente durante un máximo de 5 años",
+      "Público": "Posdoctorado",
+      "Áreas": "Sistemas, Química, Eléctrica, Mecánica, Industrial y Civil (según proyecto)",
+      "Fechas": "Apertura octubre, Cierre 15 enero",
+      "Sitio web": "https://brancoweissfellowship.org",
+      "paises": [
+        "CH",
+        "US",
+        "GB",
+        "DE",
+        "FR"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado",
+        "Movilidad"
+      ],
+      "cierre": "15 enero",
+      "urls": [
+        "https://brancoweissfellowship.org"
+      ],
+      "mails": [],
+      "title_display": "Branco Weiss Fellowship – Society in Science",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Octubre",
+      "aperturaMeses": [
+        "octubre"
+      ],
+      "cierreDisplay": "Enero",
+      "cierreMeses": [
+        "enero"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 31,
+      "title": "Becas Chevening (Reino Unido)",
+      "País": "Reino Unido",
+      "Descripción": "Programa de becas del gobierno británico para cursar una maestría de un año en universidades del Reino Unido, dirigido a futuros líderes y profesionales con potencial de impacto.",
+      "Requisitos": "Título de grado, experiencia laboral/profesional, perfil de liderazgo, admisión a una universidad del Reino Unido y dominio de inglés según los requisitos de la universidad",
+      "Beneficios": "Beca completa que cubre matrícula, manutención, pasajes y otros gastos asociados",
+      "Público": "Maestría",
+      "Áreas": "Ingeniería Civil, Sistemas, Industrial, Eléctrica, Química y Mecánica (según la maestría elegida)",
+      "Fechas": "Apertura agosto, Cierre octubre",
+      "Sitio web": "https://www.chevening.org/scholarships/who-can-apply",
+      "paises": [
+        "GB"
+      ],
+      "niveles": [
+        "Maestría"
+      ],
+      "cierre": "octubre",
+      "urls": [
+        "https://www.chevening.org/scholarships/who-can-apply"
+      ],
+      "mails": [],
+      "title_display": "Becas Chevening",
+      "grupo": "Posgrado",
+      "apertura": "Agosto",
+      "aperturaMeses": [
+        "agosto"
+      ],
+      "cierreDisplay": "Octubre",
+      "cierreMeses": [
+        "octubre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 32,
+      "title": "Becas Estudiantes Internacionales – Universidad de Tuscia (Italia)",
+      "País": "Italia",
+      "Descripción": "Becas para maestrías en la Università della Tuscia. Restringido a graduados de Hanoi University (HANU) o universidades vietnamitas asociadas. NO aplica para Argentina.",
+      "Requisitos": "Título de grado después del 31/12/2021, promedio equivalente a 7/10, carta de aceptación, inglés B2",
+      "Beneficios": "Exención de matrícula + €5.150/año (2 años) + cursos de italiano",
+      "Público": "Graduados de universidades vietnamitas",
+      "Áreas": "Ingeniería Mecánica, Economía Circular, Ciencias Agrícolas y Ambientales, etc.",
+      "Fechas": "Cierre 28 junio 2025 (convocatoria pasada)",
+      "Sitio web": "https://www.unitus.it/internazionale/borse-di-studio-international-students",
+      "paises": [
+        "IT"
+      ],
+      "niveles": [
+        "Maestría"
+      ],
+      "cierre": "28 junio 2025 (convocatoria pasada)",
+      "urls": [
+        "https://www.unitus.it/internazionale/borse-di-studio-international-students"
+      ],
+      "mails": [],
+      "title_display": "Becas Estudiantes Internacionales – Universidad de Tuscia",
+      "grupo": "Posgrado",
+      "apertura": "No especificado",
+      "aperturaMeses": [],
+      "cierreDisplay": "Junio",
+      "cierreMeses": [
+        "junio"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 33,
+      "title": "Becas IILA–MAECI (Italia)",
+      "País": "Italia",
+      "Descripción": "Programa para realizar pasantías, investigaciones o cursos de especialización de 3 a 6 meses en instituciones italianas en áreas estratégicas como agroalimentos, energías renovables, biotecnología y tecnologías espaciales.",
+      "Requisitos": "Ciudadano y residente de país latinoamericano miembro de IILA, <35 años (excepciones para madres), título universitario, proyecto de investigación, carta de aceptación, experiencia en el área",
+      "Beneficios": "€1.500/mes + seguro médico",
+      "Público": "Graduados, investigadores y jóvenes profesionales",
+      "Áreas": "Química, Civil, Mecánica, Eléctrica, Sistemas, Industrial y afines (energía, ambiente, alimentos, biotecnología, tecnologías espaciales)",
+      "Fechas": "Apertura julio-septiembre, Cierre 30 septiembre",
+      "Sitio web": "https://iila.org/es/convocatoria-becas-iila-maeci-dgcs-para-ciudadanos-latinoamericanos-para-el-ano-2027-plazo-inscripciones-30-de-septiembre-de-2026",
+      "paises": [
+        "IT"
+      ],
+      "niveles": [
+        "Maestría",
+        "Movilidad"
+      ],
+      "cierre": "30 septiembre",
+      "urls": [
+        "https://iila.org/es/convocatoria-becas-iila-maeci-dgcs-para-ciudadanos-latinoamericanos-para-el-ano-2027-plazo-inscripciones-30-de-septiembre-de-2026"
+      ],
+      "mails": [],
+      "title_display": "Becas IILA–MAECI",
+      "grupo": "Graduados",
+      "apertura": "Julio–Septiembre",
+      "aperturaMeses": [
+        "julio",
+        "agosto",
+        "septiembre"
+      ],
+      "cierreDisplay": "Septiembre",
+      "cierreMeses": [
+        "septiembre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 34,
+      "title": "Matsumae International Foundation (MIF) Fellowship (Japón)",
+      "País": "Japón",
+      "Descripción": "Programa de investigación posdoctoral que permite realizar una estancia de seis meses en universidades o centros de investigación de Japón en áreas de ciencias, ingeniería, medicina y agricultura.",
+      "Requisitos": "Doctorado al momento de postular, hasta 45 años, vínculo laboral en el país de origen, carta de aceptación de institución anfitriona en Japón, inglés o japonés",
+      "Beneficios": "¥220.000/mes + ¥120.000 ayuda inicial + pasaje + seguro",
+      "Público": "Posdoctorado / investigadores",
+      "Áreas": "Ingeniería Civil, Sistemas, Industrial, Eléctrica, Química, Mecánica y otras áreas de ingeniería y ciencias",
+      "Fechas": "Apertura junio",
+      "Sitio web": "https://www.mif-japan.org/en/fellowship/announcement",
+      "paises": [
+        "JP"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado",
+        "Movilidad"
+      ],
+      "cierre": "Apertura junio",
+      "urls": [
+        "https://www.mif-japan.org/en/fellowship/announcement"
+      ],
+      "mails": [],
+      "title_display": "Matsumae International Foundation (MIF) Fellowship",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Junio",
+      "aperturaMeses": [
+        "junio"
+      ],
+      "cierreDisplay": "Junio",
+      "cierreMeses": [
+        "junio"
+      ],
+      "notaFecha": "Convocatoria anual: históricamente abre y cierra en junio."
+    },
+    {
+      "activa": true,
+      "num": 35,
+      "title": "Becas France Excellence Eiffel (Francia)",
+      "País": "Francia",
+      "Descripción": "Programa de excelencia del gobierno francés destinado a atraer estudiantes internacionales destacados para cursar estudios de maestría o doctorado en universidades e instituciones de investigación de Francia, en áreas estratégicas como ingeniería, ciencias, tecnología, medio ambiente, economía y ciencias sociales.",
+      "Requisitos": "Ser postulado por una institución francesa de educación superior; excelente desempeño académico; no poseer otra beca del gobierno francés",
+      "Beneficios": "€1.181/mes (maestría) o €1.800/mes (doctorado) + pasajes + seguro + alojamiento",
+      "Público": "Maestría y Doctorado",
+      "Áreas": "Sistemas, Industrial, Mecánica, Eléctrica, Electrónica, Química, Civil, Bioingeniería y afines",
+      "Fechas": "Apertura octubre, Cierre enero",
+      "Sitio web": "https://www.campusfrance.org/es/el-programa-de-becas-france-excellence-eiffel-0",
+      "paises": [
+        "FR"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "enero",
+      "urls": [
+        "https://www.campusfrance.org/es/el-programa-de-becas-france-excellence-eiffel-0"
+      ],
+      "mails": [],
+      "title_display": "Becas France Excellence Eiffel",
+      "grupo": "Posgrado",
+      "apertura": "Octubre",
+      "aperturaMeses": [
+        "octubre"
+      ],
+      "cierreDisplay": "Enero",
+      "cierreMeses": [
+        "enero"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 36,
+      "title": "International Student Scholarship – University of Macau (Macao)",
+      "País": "Macao (China)",
+      "Descripción": "Programa de becas de la Universidad de Macau destinado a atraer estudiantes internacionales destacados para cursar carreras de grado o maestría.",
+      "Requisitos": "Ser estudiante internacional, cumplir con los requisitos de admisión y demostrar excelencia académica",
+      "Beneficios": "Exención total o parcial de matrícula y otros apoyos económicos según categoría",
+      "Público": "Grado y Maestría",
+      "Áreas": "Todas las ingenierías y áreas afines según oferta académica",
+      "Fechas": "Convocatoria anual vinculada al proceso de admisión",
+      "Sitio web": "https://gao.um.edu.mo/international-admission/scholarship-assistantship-academic-prizes/admission-scholarship",
+      "paises": [
+        "MO"
+      ],
+      "niveles": [
+        "Grado",
+        "Maestría"
+      ],
+      "cierre": "Convocatoria anual vinculada al proceso de admisión",
+      "urls": [
+        "https://gao.um.edu.mo/international-admission/scholarship-assistantship-academic-prizes/admission-scholarship"
+      ],
+      "mails": [],
+      "title_display": "International Student Scholarship – University of Macau",
+      "grupo": "Grado",
+      "apertura": "Enero–Abril y Octubre–Diciembre",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "octubre",
+        "noviembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Enero, Marzo y Abril (según admisión)",
+      "cierreMeses": [
+        "enero",
+        "marzo",
+        "abril"
+      ],
+      "notaFecha": "La beca se evalúa junto con la admisión; no exige solicitud separada."
+    },
+    {
+      "activa": true,
+      "num": 37,
+      "title": "Becas de Posdoctorado Junior Leader – Fundación \"la Caixa\" (España/Portugal)",
+      "País": "España y Portugal",
+      "Descripción": "Programa para investigadores posdoctorales que deseen desarrollar proyectos de excelencia en universidades y centros de investigación de España o Portugal. Incluye formación complementaria en liderazgo e innovación.",
+      "Requisitos": "Doctorado, trayectoria investigadora destacada, cumplir requisitos de movilidad según modalidad",
+      "Beneficios": "Contrato de investigación de 3 años, financiación para investigación, ayuda a la movilidad, apoyo familiar",
+      "Público": "Posdoctorado",
+      "Áreas": "Todas las ingenierías y áreas STEM",
+      "Fechas": "Apertura febrero, Cierre abril",
+      "Sitio web": "https://lacaixafoundation.org/en/postdoctoral-junior-leader-fellowships-description",
+      "paises": [
+        "ES",
+        "PT"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado",
+        "Movilidad"
+      ],
+      "cierre": "abril",
+      "urls": [
+        "https://lacaixafoundation.org/en/postdoctoral-junior-leader-fellowships-description"
+      ],
+      "mails": [],
+      "title_display": "Becas de Posdoctorado Junior Leader – Fundación \"la Caixa\"",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Febrero",
+      "aperturaMeses": [
+        "febrero"
+      ],
+      "cierreDisplay": "Abril",
+      "cierreMeses": [
+        "abril"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 38,
+      "title": "Becas Hanyang International Excellence Awards (HIEA) – Corea del Sur",
+      "País": "Corea del Sur",
+      "Descripción": "Programa de becas de excelencia de Hanyang University para estudiantes internacionales con buen desempeño académico y dominio del coreano.",
+      "Requisitos": "Ser estudiante internacional regular, certificado TOPIK, promedio mínimo 3.0/4.5, seguro médico vigente, no recibir otras becas externas",
+      "Beneficios": "Reducción del 30%, 50% o 70% de la matrícula por un semestre",
+      "Público": "Grado y posgrado",
+      "Áreas": "Todas las ingenierías ofrecidas por Hanyang University",
+      "Fechas": "Apertura marzo y septiembre",
+      "Sitio web": "https://www.hanyang.ac.kr/web/eng/scholarships",
+      "paises": [
+        "KR"
+      ],
+      "niveles": [
+        "Grado",
+        "Maestría"
+      ],
+      "cierre": "Apertura marzo y septiembre",
+      "urls": [
+        "https://www.hanyang.ac.kr/web/eng/scholarships"
+      ],
+      "mails": [],
+      "title_display": "Becas Hanyang International Excellence Awards (HIEA)",
+      "grupo": "Grado",
+      "apertura": "Marzo y Septiembre",
+      "aperturaMeses": [
+        "marzo",
+        "septiembre"
+      ],
+      "cierreDisplay": "Marzo y Septiembre (estimado)",
+      "cierreMeses": [
+        "marzo",
+        "septiembre"
+      ],
+      "notaFecha": "Estimado por ciclos semestrales de aplicación de la beca."
+    },
+    {
+      "activa": true,
+      "num": 39,
+      "title": "Royal Society Funding Schemes (Reino Unido)",
+      "País": "Reino Unido",
+      "Descripción": "Programas de financiamiento para proyectos de investigación, becas de investigación (Fellowships) y formación doctoral en instituciones del Reino Unido. Promueve colaboración internacional y acceso abierto.",
+      "Requisitos": "Ser seleccionado en una convocatoria de la Royal Society, contar con institución anfitriona elegible en Reino Unido, cumplir normativas éticas y legales",
+      "Beneficios": "Financiamiento para proyectos, personal, equipamiento, viajes, formación (según cada convocatoria)",
+      "Público": "Investigadores, becarios posdoctorales, académicos y estudiantes de doctorado",
+      "Áreas": "Ciencias naturales, ingeniería, matemáticas, tecnología y disciplinas STEM",
+      "Fechas": "Depende de cada convocatoria específica",
+      "Sitio web": "https://royalsociety.org/grants",
+      "paises": [
+        "GB"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado",
+        "Movilidad"
+      ],
+      "cierre": "Depende de cada convocatoria específica",
+      "urls": [
+        "https://royalsociety.org/grants"
+      ],
+      "mails": [],
+      "title_display": "Royal Society Funding Schemes",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Enero–Septiembre y Diciembre (según esquema)",
+      "aperturaMeses": [
+        "enero",
+        "febrero",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "diciembre"
+      ],
+      "cierreDisplay": "Febrero–Noviembre (según esquema)",
+      "cierreMeses": [
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre"
+      ],
+      "notaFecha": "No es una convocatoria única; agrupa esquemas Royal Society con calendarios propios."
+    },
+    {
+      "activa": true,
+      "num": 40,
+      "title": "Merit Based International Scholarships – Politecnico di Milano (Italia)",
+      "País": "Italia",
+      "Descripción": "Becas por mérito académico para estudiantes internacionales que deseen cursar maestrías (Master of Science) dictadas en inglés en el Politécnico de Milán.",
+      "Requisitos": "Postular a una maestría en inglés, realizar la solicitud en período Early Bird, presentar candidatura a beca dentro de plazos establecidos",
+      "Beneficios": "Exención total de matrícula y becas de €2.500 a €10.000 anuales",
+      "Público": "Estudiantes internacionales para maestrías",
+      "Áreas": "Ingenierías, arquitectura, energía, mecánica y áreas afines",
+      "Fechas": "Apertura octubre, Cierre diciembre",
+      "Sitio web": "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships",
+      "paises": [
+        "IT"
+      ],
+      "niveles": [
+        "Maestría"
+      ],
+      "cierre": "diciembre",
+      "urls": [
+        "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships"
+      ],
+      "mails": [],
+      "title_display": "Merit Based International Scholarships – Politecnico di Milano",
+      "grupo": "Posgrado",
+      "apertura": "Octubre",
+      "aperturaMeses": [
+        "octubre"
+      ],
+      "cierreDisplay": "Diciembre",
+      "cierreMeses": [
+        "diciembre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 41,
+      "title": "Top International Student Grants – Università di Bergamo (Italia)",
+      "País": "Italia",
+      "Descripción": "Programa de la Universidad de Bérgamo para atraer estudiantes internacionales destacados para cursar maestrías en inglés.",
+      "Requisitos": "Título obtenido fuera del sistema educativo italiano, <30 años, cumplir requisitos de admisión, presentar resultados vigentes del examen GRE",
+      "Beneficios": "€16.000 totales (€8.000 por año durante dos años)",
+      "Público": "Estudiantes internacionales para maestrías",
+      "Áreas": "Management Engineering, Mechatronics and Smart Technology Engineering, Medical Engineering",
+      "Fechas": "Apertura mayo-julio, Cierre 10 julio",
+      "Sitio web": "https://en.unibg.it/study/enrollment/foreign-students-join-us/fees-grants-and-scholarships",
+      "paises": [
+        "IT"
+      ],
+      "niveles": [
+        "Maestría"
+      ],
+      "cierre": "10 julio",
+      "urls": [
+        "https://en.unibg.it/study/enrollment/foreign-students-join-us/fees-grants-and-scholarships"
+      ],
+      "mails": [],
+      "title_display": "Top International Student Grants – Università di Bergamo",
+      "grupo": "Posgrado",
+      "apertura": "Mayo–Julio",
+      "aperturaMeses": [
+        "mayo",
+        "junio",
+        "julio"
+      ],
+      "cierreDisplay": "Julio",
+      "cierreMeses": [
+        "julio"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 42,
+      "title": "Türkiye Scholarships (Turquía)",
+      "País": "Turquía",
+      "Descripción": "Programa de becas del Gobierno de Turquía para estudiantes internacionales para realizar estudios de grado, maestría o doctorado en universidades turcas. Beca integral que incluye curso de turco, alojamiento y pasajes.",
+      "Requisitos": "Nacionalidad argentina, cumplir requisitos académicos del nivel elegido",
+      "Beneficios": "Exención de matrícula, asignación mensual, curso de turco (hasta 1 año), alojamiento, seguro médico, pasajes",
+      "Público": "Grado, maestría y doctorado",
+      "Áreas": "Ingenierías, ciencias y tecnología",
+      "Fechas": "Apertura 10 enero, Cierre 20 febrero",
+      "Sitio web": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships",
+      "paises": [
+        "TR"
+      ],
+      "niveles": [
+        "Grado",
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "20 febrero",
+      "urls": [
+        "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships"
+      ],
+      "mails": [],
+      "title_display": "Türkiye Scholarships",
+      "grupo": "Grado",
+      "apertura": "Enero",
+      "aperturaMeses": [
+        "enero"
+      ],
+      "cierreDisplay": "Febrero",
+      "cierreMeses": [
+        "febrero"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 43,
+      "title": "Beca MEXT – Posgrado (Japón)",
+      "País": "Japón",
+      "Descripción": "Programa del Ministerio de Educación de Japón para graduados universitarios que deseen desarrollar un proyecto de investigación en una universidad japonesa, con posibilidad de maestría, doctorado o especialización.",
+      "Requisitos": "Nacionalidad argentina, título de grado, proyecto de investigación, inglés y/o japonés, promedio ≥7/10",
+      "Beneficios": "Asignación mensual, pasaje, exención de matrícula, curso intensivo de japonés (6 meses)",
+      "Público": "Graduados para maestría o doctorado",
+      "Áreas": "Ingeniería y ciencias",
+      "Fechas": "Apertura abril 2026, Cierre 12 junio 2026",
+      "Sitio web": "https://www.ar.emb-japan.go.jp/itpr_es/Becas.html",
+      "paises": [
+        "JP"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "12 junio 2026",
+      "urls": [
+        "https://www.ar.emb-japan.go.jp/itpr_es/Becas.html"
+      ],
+      "mails": [],
+      "title_display": "Beca MEXT – Posgrado",
+      "grupo": "Posgrado",
+      "apertura": "Abril",
+      "aperturaMeses": [
+        "abril"
+      ],
+      "cierreDisplay": "Junio",
+      "cierreMeses": [
+        "junio"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 44,
+      "title": "Beca Técnica MEXT (Senshugakko) – Japón",
+      "País": "Japón",
+      "Descripción": "Permite cursar una carrera técnica terciaria de 3 años en Japón en áreas tecnológicas, comerciales, de diseño, salud, bienestar y otras especialidades.",
+      "Requisitos": "Nacionalidad argentina, haber nacido desde el 2 de abril de 2002, nivel de japonés intermedio y nivel de inglés intermedio-avanzado",
+      "Beneficios": "Matrícula cubierta, curso intensivo de japonés durante un año y manutención según condiciones del programa MEXT",
+      "Público": "Estudiantes argentinos con secundaria completa o cursando último año",
+      "Áreas": "Ingeniería Civil, Eléctrica, Electrónica, Mecánica, Computación, Procesamiento de Información y áreas tecnológicas afines",
+      "Fechas": "Apertura abril 2026, Cierre 12 junio 2026",
+      "Sitio web": "https://www.studyinjapan.go.jp/en/smap-stopj-applications-undergraduate.html",
+      "paises": [
+        "JP"
+      ],
+      "niveles": [
+        "Grado"
+      ],
+      "cierre": "12 junio 2026",
+      "urls": [
+        "https://www.studyinjapan.go.jp/en/smap-stopj-applications-undergraduate.html"
+      ],
+      "mails": [],
+      "title_display": "Beca Técnica MEXT (Senshugakko)",
+      "grupo": "Grado",
+      "apertura": "Abril",
+      "aperturaMeses": [
+        "abril"
+      ],
+      "cierreDisplay": "Junio",
+      "cierreMeses": [
+        "junio"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 45,
+      "title": "Beca del Gobierno de Rumania para Estudiantes Extranjeros",
+      "País": "Rumania",
+      "Descripción": "Programa de becas completas del Gobierno de Rumania para cursar estudios universitarios, de maestría o doctorado en instituciones acreditadas del país.",
+      "Requisitos": "Ciudadanía de un país no perteneciente a la UE, promedio mínimo equivalente a 7/10, documentación completa. Para doctorado: aval previo de director de tesis.",
+      "Beneficios": "Exención total de matrícula, año preparatorio de rumano, alojamiento en residencias (sujeto a disponibilidad), estipendio mensual",
+      "Público": "Ciudadanos de países no UE (Argentina sí)",
+      "Áreas": "Ingenierías, tecnología, ciencias exactas, informática (excluye Medicina, Odontología, Farmacia)",
+      "Fechas": "Apertura 16 febrero, Cierre 31 marzo",
+      "Sitio web": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+      "paises": [
+        "RO"
+      ],
+      "niveles": [
+        "Grado",
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "31 marzo",
+      "urls": [
+        "https://scholarships.studyinromania.gov.ro/scholarship-about"
+      ],
+      "mails": [],
+      "title_display": "Beca del Gobierno de Rumania para Estudiantes Extranjeros",
+      "grupo": "Grado",
+      "apertura": "Febrero",
+      "aperturaMeses": [
+        "febrero"
+      ],
+      "cierreDisplay": "Marzo",
+      "cierreMeses": [
+        "marzo"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 46,
+      "title": "Beca CONAHCYT – OEA – AMEXCID para Posgrados en México",
+      "País": "México",
+      "Descripción": "Programa conjunto OEA-CONAHCYT-AMEXCID para realizar estudios de posgrado presenciales en México, orientado a la formación de recursos humanos de alto nivel en áreas científicas y tecnológicas.",
+      "Requisitos": "Ciudadano de país miembro OEA (excepto México), título universitario (o maestría para doctorado), promedio ≥8/10, admisión en institución participante del SNP",
+      "Beneficios": "Estipendio mensual, seguro médico básico en México, posibilidad de US$1.200 adicionales. Algunas universidades ofrecen exenciones de matrícula.",
+      "Público": "Maestría o doctorado",
+      "Áreas": "Ingenierías, biotecnología, matemáticas, física, geociencias, química y áreas tecnológicas afines",
+      "Fechas": "Convocatoria anual entre abril y julio",
+      "Sitio web": "https://www.oas.org/en/scholarships/conacyt.asp",
+      "paises": [
+        "MX"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado"
+      ],
+      "cierre": "Convocatoria anual entre abril y julio",
+      "urls": [
+        "https://www.oas.org/en/scholarships/conacyt.asp"
+      ],
+      "mails": [],
+      "title_display": "Beca CONAHCYT – OEA – AMEXCID para Posgrados en México",
+      "grupo": "Posgrado",
+      "apertura": "Abril–Julio",
+      "aperturaMeses": [
+        "abril",
+        "mayo",
+        "junio",
+        "julio"
+      ],
+      "cierreDisplay": "Julio",
+      "cierreMeses": [
+        "julio"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 47,
+      "title": "Programa MARCA – Movilidad Académica Regional en Carreras Acreditadas (MERCOSUR)",
+      "País": "Países del MERCOSUR y asociados",
+      "Descripción": "Programa regional que promueve la movilidad académica y la cooperación entre universidades con carreras acreditadas por ARCUSUR, fortaleciendo la integración regional.",
+      "Requisitos": "Ser estudiante regular con al menos 40% de materias aprobadas, pertenecer a carrera acreditada que integre una red MARCA aprobada",
+      "Beneficios": "Pasaje y seguro cubiertos por universidad de origen; alojamiento y manutención por universidad de destino. Reconocimiento académico.",
+      "Público": "Estudiantes, docentes, investigadores y coordinadores de carreras acreditadas",
+      "Áreas": "Carreras de ingeniería acreditadas por ARCUSUR",
+      "Fechas": "Convocatorias periódicas según cronograma del Sector Educativo del MERCOSUR",
+      "Sitio web": "https://programamarca.siu.edu.ar/programa_marca/convocatorias.html",
+      "paises": [
+        "AR",
+        "BR",
+        "UY",
+        "PY",
+        "BO",
+        "CL"
+      ],
+      "niveles": [
+        "Grado",
+        "Movilidad"
+      ],
+      "cierre": "Convocatorias periódicas según cronograma del Sector Educativo del MERCOSUR",
+      "urls": [
+        "https://programamarca.siu.edu.ar/programa_marca/convocatorias.html"
+      ],
+      "mails": [],
+      "title_display": "Programa MARCA – Movilidad Académica Regional en Carreras Acreditadas",
+      "grupo": "Grado",
+      "apertura": "Septiembre (histórico)",
+      "aperturaMeses": [
+        "septiembre"
+      ],
+      "cierreDisplay": "Diciembre (histórico)",
+      "cierreMeses": [
+        "diciembre"
+      ],
+      "notaFecha": "Referencia histórica de la XIII convocatoria; verificar nueva convocatoria vigente."
+    },
+    {
+      "activa": true,
+      "num": 48,
+      "title": "Programa Saint Exupéry – Investigación Doctoral en Francia",
+      "País": "Francia",
+      "Descripción": "Permite realizar una estancia de investigación doctoral en universidades francesas durante 2 a 4 meses, con o sin cotutela de tesis. Prioridad para TIC, energías renovables, ambiente, logística, petróleo y gas, biotecnología, salud, minería, agroindustria, industria satelital, materiales y nanotecnología.",
+      "Requisitos": "Nacionalidad argentina, estudiante de doctorado en universidad pública, docente y/o investigador, carta de invitación de universidad francesa, inglés o francés B1",
+      "Beneficios": "Pasaje (€1.900), manutención (~€1.690/mes), seguro médico, exención de matrícula",
+      "Público": "Docentes e investigadores de universidades públicas argentinas que estén cursando un doctorado",
+      "Áreas": "Todas las áreas, con prioridad en tecnologías estratégicas",
+      "Fechas": "Apertura marzo, Cierre abril",
+      "Sitio web": "https://ifargentine.com.ar",
+      "paises": [
+        "FR"
+      ],
+      "niveles": [
+        "Doctorado"
+      ],
+      "cierre": "abril",
+      "urls": [
+        "https://ifargentine.com.ar"
+      ],
+      "mails": [],
+      "title_display": "Programa Saint Exupéry – Investigación Doctoral en Francia",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Marzo",
+      "aperturaMeses": [
+        "marzo"
+      ],
+      "cierreDisplay": "Abril",
+      "cierreMeses": [
+        "abril"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 49,
+      "title": "Becas de Excelencia del Gobierno Suizo (Investigación, Doctorado y Arte)",
+      "País": "Suiza",
+      "Descripción": "Permite realizar estancias de investigación, doctorados o maestrías artísticas en universidades e instituciones de educación superior suizas.",
+      "Requisitos": "Título universitario, excelencia académica, proyecto de investigación o admisión en institución suiza. Para investigación/doctorado: supervisor académico en Suiza.",
+      "Beneficios": "2.450 CHF/mes, seguro médico, subsidio de alojamiento, descuentos en transporte",
+      "Público": "Graduados, doctorandos, investigadores y artistas",
+      "Áreas": "Ingenierías, ciencias exactas, tecnología e innovación",
+      "Fechas": "Apertura agosto, Cierre septiembre-noviembre, inicio septiembre",
+      "Sitio web": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance",
+      "paises": [
+        "CH"
+      ],
+      "niveles": [
+        "Maestría",
+        "Doctorado",
+        "Movilidad"
+      ],
+      "cierre": "septiembre-noviembre",
+      "urls": [
+        "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance"
+      ],
+      "mails": [],
+      "title_display": "Becas de Excelencia del Gobierno Suizo",
+      "grupo": "Graduados",
+      "apertura": "Agosto",
+      "aperturaMeses": [
+        "agosto"
+      ],
+      "cierreDisplay": "Septiembre–Noviembre",
+      "cierreMeses": [
+        "septiembre",
+        "octubre",
+        "noviembre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 50,
+      "title": "Programa Ulam (NAWA) – Polonia",
+      "País": "Polonia",
+      "Descripción": "Permite a investigadores extranjeros integrarse a universidades y centros de investigación polacos para desarrollar proyectos científicos, actividades académicas y cooperación internacional durante 6 a 24 meses.",
+      "Requisitos": "Título de doctorado, trayectoria científica destacada, propuesta de trabajo en institución polaca anfitriona",
+      "Beneficios": "Financiamiento para estancias de investigación y docencia en Polonia",
+      "Público": "Investigadores y docentes con doctorado",
+      "Áreas": "Ingenierías, ciencias exactas, tecnología e innovación",
+      "Fechas": "Apertura febrero-marzo, Cierre mayo",
+      "Sitio web": "https://nawa.gov.pl/en/scientists/the-ulam-programme",
+      "paises": [
+        "PL"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Movilidad"
+      ],
+      "cierre": "mayo",
+      "urls": [
+        "https://nawa.gov.pl/en/scientists/the-ulam-programme"
+      ],
+      "mails": [],
+      "title_display": "Programa Ulam (NAWA)",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Febrero–Marzo",
+      "aperturaMeses": [
+        "febrero",
+        "marzo"
+      ],
+      "cierreDisplay": "Mayo",
+      "cierreMeses": [
+        "mayo"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 51,
+      "title": "Marie Skłodowska-Curie Actions (MSCA) – Unión Europea",
+      "País": "Unión Europea",
+      "Descripción": "Programa de la Unión Europea que financia la formación y movilidad de investigadores a través de redes doctorales, becas posdoctorales y proyectos de cooperación científica internacional.",
+      "Requisitos": "Varían según convocatoria (Doctoral Networks, Postdoctoral Fellowships, Staff Exchanges, COFUND). Generalmente requieren vinculación con institución anfitriona europea.",
+      "Beneficios": "Financiamiento para investigación, movilidad internacional, formación doctoral y estancias posdoctorales",
+      "Público": "Doctorandos, investigadores posdoctorales e instituciones de investigación",
+      "Áreas": "Ingenierías, ciencias exactas, tecnología",
+      "Fechas": "Aperturas abril-junio, Cierres septiembre-noviembre",
+      "Sitio web": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships",
+      "paises": [
+        "DE",
+        "FR",
+        "IT",
+        "ES",
+        "NL",
+        "BE",
+        "PL",
+        "SE",
+        "AT",
+        "PT",
+        "IE",
+        "DK",
+        "FI",
+        "GR",
+        "CZ",
+        "HU",
+        "RO"
+      ],
+      "niveles": [
+        "Doctorado",
+        "Posdoctorado",
+        "Movilidad"
+      ],
+      "cierre": "septiembre-noviembre",
+      "urls": [
+        "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships"
+      ],
+      "mails": [],
+      "title_display": "Marie Skłodowska-Curie Actions (MSCA)",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Abril–Junio",
+      "aperturaMeses": [
+        "abril",
+        "mayo",
+        "junio"
+      ],
+      "cierreDisplay": "Septiembre–Noviembre",
+      "cierreMeses": [
+        "septiembre",
+        "octubre",
+        "noviembre"
+      ]
+    },
+    {
+      "activa": true,
+      "num": 52,
+      "title": "Beca Fulbright de Investigación (EE. UU.)",
+      "País": "Estados Unidos",
+      "Descripción": "Permite realizar estancias de investigación de 3 meses en universidades de Estados Unidos para investigadores argentinos.",
+      "Requisitos": "Nacionalidad argentina, experiencia en investigación, proyecto de investigación, carta de invitación de universidad estadounidense, inglés avanzado",
+      "Beneficios": "Pasaje de ida y vuelta, estipendio mensual y seguro médico de emergencias",
+      "Público": "Investigadores argentinos de nivel doctoral y posdoctoral",
+      "Áreas": "Todas las disciplinas, con prioridad en educación, alfabetización e IA aplicada a educación",
+      "Fechas": "Apertura julio, Cierre octubre",
+      "Sitio web": "https://fulbright.edu.ar",
+      "paises": [
+        "US"
+      ],
+      "niveles": [
+        "Posdoctorado",
+        "Movilidad"
+      ],
+      "cierre": "octubre",
+      "urls": [
+        "https://fulbright.edu.ar"
+      ],
+      "mails": [],
+      "title_display": "Beca Fulbright de Investigación",
+      "grupo": "Docentes/investigadores",
+      "apertura": "Julio",
+      "aperturaMeses": [
+        "julio"
+      ],
+      "cierreDisplay": "Octubre",
+      "cierreMeses": [
+        "octubre"
+      ]
+    }
+  ],
+  "nombres": {
+    "US": "Estados Unidos",
+    "IE": "Irlanda",
+    "DE": "Alemania",
+    "CN": "China",
+    "BR": "Brasil",
+    "CO": "Colombia",
+    "MX": "México",
+    "IT": "Italia",
+    "NL": "Países Bajos",
+    "NO": "Noruega",
+    "SE": "Suecia",
+    "PT": "Portugal",
+    "JP": "Japón",
+    "HK": "Hong Kong",
+    "DK": "Dinamarca",
+    "AT": "Austria",
+    "GB": "Reino Unido",
+    "ES": "España",
+    "BE": "Bélgica",
+    "FR": "Francia",
+    "AU": "Australia",
+    "CL": "Chile",
+    "CH": "Suiza",
+    "AR": "Argentina",
+    "PE": "Perú",
+    "UY": "Uruguay",
+    "BO": "Bolivia",
+    "PY": "Paraguay",
+    "EC": "Ecuador",
+    "CR": "Costa Rica",
+    "IL": "Israel",
+    "MO": "Macao",
+    "KR": "Corea del Sur",
+    "TR": "Turquía",
+    "RO": "Rumania",
+    "PL": "Polonia",
+    "FI": "Finlandia",
+    "GR": "Grecia",
+    "CZ": "Chequia",
+    "HU": "Hungría"
+  },
+  "continente": {
+    "US": "América del Norte",
+    "MX": "América del Norte",
+    "CR": "América del Norte",
+    "BR": "América Latina",
+    "CO": "América Latina",
+    "CL": "América Latina",
+    "AR": "América Latina",
+    "PE": "América Latina",
+    "UY": "América Latina",
+    "BO": "América Latina",
+    "PY": "América Latina",
+    "EC": "América Latina",
+    "IE": "Europa",
+    "DE": "Europa",
+    "IT": "Europa",
+    "NL": "Europa",
+    "NO": "Europa",
+    "SE": "Europa",
+    "PT": "Europa",
+    "DK": "Europa",
+    "AT": "Europa",
+    "GB": "Europa",
+    "ES": "Europa",
+    "BE": "Europa",
+    "FR": "Europa",
+    "CH": "Europa",
+    "RO": "Europa",
+    "PL": "Europa",
+    "FI": "Europa",
+    "GR": "Europa",
+    "CZ": "Europa",
+    "HU": "Europa",
+    "TR": "Europa",
+    "CN": "Asia",
+    "JP": "Asia",
+    "HK": "Asia",
+    "MO": "Asia",
+    "KR": "Asia",
+    "IL": "Asia",
+    "AU": "Oceanía"
+  },
+  "orden": [
+    "Grado",
+    "Posgrado",
+    "Docentes/investigadores",
+    "Graduados"
+  ],
+  "meses": [
+    "enero",
+    "febrero",
+    "marzo",
+    "abril",
+    "mayo",
+    "junio",
+    "julio",
+    "agosto",
+    "septiembre",
+    "octubre",
+    "noviembre",
+    "diciembre"
+  ]
+}
